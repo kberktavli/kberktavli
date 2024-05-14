@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="https://github.com/kberktavli/kberktavli/blob/main/Tv-ezgif.com-rotate.gif"  />
+  <img height="300"  src="https://github.com/kberktavli/kberktavli/blob/main/tkm.gif"  />
   <div align="center">
     
 <h3 align="center">Kadir Berk Tavlı</h3>
